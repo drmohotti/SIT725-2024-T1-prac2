@@ -1,0 +1,13 @@
+Save the server.js file.
+
+Run your server by executing node server.js in the terminal.
+
+Open a web browser and navigate to http://localhost:3000 to see your simple web page served by the Node.js server.
+
+To access the simple endpoint, navigate to http://localhost:3000/api/message in your browser.
+
+That's it! You've created a simple web server using Node.js and Express, served a static web page from a public folder, and created a simple endpoint. You can further expand and customize this setup as needed.
+
+
+
+
